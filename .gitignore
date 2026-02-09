@@ -1,0 +1,11 @@
+# macOS系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# 其他常见的临时文件
+*.swp
+*.swo
+*~
